@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AuthentuficationMaui.Auth0
+{
+    internal class Auth0Client
+    {
+    }
+}

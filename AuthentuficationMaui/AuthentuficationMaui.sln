@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthentuficationMaui", "AuthentuficationMaui\AuthentuficationMaui.csproj", "{BCEEB111-173C-49E9-A4B7-F63CF9AA7BCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthentificationMaui", "AuthentuficationMaui\AuthentificationMaui.csproj", "{BCEEB111-173C-49E9-A4B7-F63CF9AA7BCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

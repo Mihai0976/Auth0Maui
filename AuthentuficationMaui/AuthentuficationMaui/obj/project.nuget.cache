@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/6F9vO/OLfWF4vZzmgEWZ9tIYC+zE/I2qs7xgDSei4G65H4hlX8ywoRMrJIobpDwRmnD+vWytdMI2BWfOSaiA==",
+  "dgSpecHash": "U3t1c1bW4i9bduD0cnBhMNHeAIzZbNoAgH9236U6DCrQ3DESqz6z+yVrvun26hXqJUsrNYz11XRcsp1qmXrKRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\AuthentuficationMaui.csproj",
+  "projectFilePath": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\AuthentificationMaui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",

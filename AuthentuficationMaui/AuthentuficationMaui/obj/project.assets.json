@@ -24566,9 +24566,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\AuthentuficationMaui.csproj",
-      "projectName": "AuthentuficationMaui",
-      "projectPath": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\AuthentuficationMaui.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\AuthentificationMaui.csproj",
+      "projectName": "AuthentificationMaui",
+      "projectPath": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\AuthentificationMaui.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mihai\\source\\repos\\oo-grupp-7\\AuthentuficationMaui\\AuthentuficationMaui\\obj\\",
       "projectStyle": "PackageReference",

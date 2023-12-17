@@ -1,0 +1,1 @@
+C:\Users\mihai\source\repos\oo-grupp-7\AuthentuficationMaui\AuthentuficationMaui\AuthentuficationMaui.csproj;x64
