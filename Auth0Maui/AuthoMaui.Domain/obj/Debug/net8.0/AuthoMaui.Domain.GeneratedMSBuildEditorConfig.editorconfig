@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuthoMaui.Domain
-build_property.ProjectDir = C:\Users\mihai\Documents\GitHub\oo-grupp-7\Auth0Maui\AuthoMaui.Domain\
+build_property.ProjectDir = C:\Users\mihai\Documents\GitHub\oop-gupp-7\Auth0Maui\AuthoMaui.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

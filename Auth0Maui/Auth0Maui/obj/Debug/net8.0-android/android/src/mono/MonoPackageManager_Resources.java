@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"Auth0Maui.MAUI.dll",
 		"AlohaKit.dll",
 		"CommunityToolkit.Mvvm.dll",
+		"FluentValidation.dll",
 		"GoogleGson.dll",
 		"Microsoft.Extensions.Configuration.dll",
 		"Microsoft.Extensions.Configuration.Abstractions.dll",

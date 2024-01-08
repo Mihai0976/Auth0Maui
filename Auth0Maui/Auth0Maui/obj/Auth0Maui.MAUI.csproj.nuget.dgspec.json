@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj": {}
+    "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj": {
+    "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
+        "projectUniqueName": "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
         "projectName": "Auth0Maui.MAUI",
-        "projectPath": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
+        "projectPath": "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
         "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\obj\\",
+        "outputPath": "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\Auth0Maui\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

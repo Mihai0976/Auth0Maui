@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ADOCjswEKFrgsHcLcIl+DyAAUe6MllsUjN7Rvk0EDr30whopYbxQqr5LUETGzR2BKh2qE4LIf39dsV9SvyJCw==",
+  "dgSpecHash": "W2TvwMPnTgbcnAx+NsxzaUJz/f5DpLWaGQWwkMfqnWXUpO4ygMb6bzI+GKprcGS2kGbMTajkVeKOeI7VTQp91w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\AuthoMaui.Domain\\AuthoMaui.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\AuthoMaui.Domain\\AuthoMaui.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",

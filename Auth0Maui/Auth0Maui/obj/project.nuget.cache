@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W3UGvbtg2zkB1FuU372VIcvK2yU9+JiSVIEDFL9Zc0GViz0sJKXXzH4kRNm9bP7xo/Rl05FbiFHKrVtDe8TZwA==",
+  "dgSpecHash": "oSiTwhYhXoHAul9/fz+kN8WBdi6Bdma74O97E6shyfRBJFYxCwPVAk9pRjCaFCbKj6toHUTNu8wfFfn7KgU/Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
+  "projectFilePath": "C:\\Users\\mihai\\Documents\\GitHub\\oop-gupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai\\.nuget\\packages\\alohakit\\1.0.74\\alohakit.1.0.74.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
