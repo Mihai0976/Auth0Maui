@@ -1,0 +1,1 @@
+C:\Users\mihai\Documents\GitHub\oo-grupp-7\Auth0Maui\Auth0Maui\Auth0Maui.csproj;x64
