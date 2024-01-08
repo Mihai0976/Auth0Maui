@@ -41,4 +41,8 @@ $RECYCLE.BIN/
 *.v2
 *.lock
 *.bin
+.vs/Auth0Maui/v17/
+bin/Debug/net8.0-android/
+obj/debug/net.8.0-android/
 
+Auth0Maui/.vs\Auth0Maui/v17\/suo/
