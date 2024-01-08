@@ -1,4 +1,4 @@
-package crc64476423ad74432600;
+package crc6427c6f6e2e37331e9;
 
 
 public class MainActivity
@@ -11,7 +11,7 @@ public class MainActivity
 	static {
 		__md_methods = 
 			"";
-		mono.android.Runtime.register ("Auth0Maui.MainActivity, Auth0Maui", MainActivity.class, __md_methods);
+		mono.android.Runtime.register ("Auth0Maui.MainActivity, Auth0Maui.MAUI", MainActivity.class, __md_methods);
 	}
 
 
@@ -19,7 +19,7 @@ public class MainActivity
 	{
 		super ();
 		if (getClass () == MainActivity.class) {
-			mono.android.TypeManager.Activate ("Auth0Maui.MainActivity, Auth0Maui", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Auth0Maui.MainActivity, Auth0Maui.MAUI", "", this, new java.lang.Object[] {  });
 		}
 	}
 
@@ -28,7 +28,7 @@ public class MainActivity
 	{
 		super (p0);
 		if (getClass () == MainActivity.class) {
-			mono.android.TypeManager.Activate ("Auth0Maui.MainActivity, Auth0Maui", "System.Int32, System.Private.CoreLib", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("Auth0Maui.MainActivity, Auth0Maui.MAUI", "System.Int32, System.Private.CoreLib", this, new java.lang.Object[] { p0 });
 		}
 	}
 

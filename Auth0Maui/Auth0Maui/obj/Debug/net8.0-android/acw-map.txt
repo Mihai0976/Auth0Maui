@@ -1,9 +1,9 @@
-Auth0Maui.MainActivity, Auth0Maui;crc64476423ad74432600.MainActivity
-Auth0Maui.MainActivity;crc64476423ad74432600.MainActivity
-auth0maui.MainActivity;crc64476423ad74432600.MainActivity
-Auth0Maui.MainApplication, Auth0Maui;crc64476423ad74432600.MainApplication
-Auth0Maui.MainApplication;crc64476423ad74432600.MainApplication
-auth0maui.MainApplication;crc64476423ad74432600.MainApplication
+Auth0Maui.MainActivity, Auth0Maui.MAUI;crc6427c6f6e2e37331e9.MainActivity
+Auth0Maui.MainActivity;crc6427c6f6e2e37331e9.MainActivity
+auth0maui.MainActivity;crc6427c6f6e2e37331e9.MainActivity
+Auth0Maui.MainApplication, Auth0Maui.MAUI;crc6427c6f6e2e37331e9.MainApplication
+Auth0Maui.MainApplication;crc6427c6f6e2e37331e9.MainApplication
+auth0maui.MainApplication;crc6427c6f6e2e37331e9.MainApplication
 GoogleGson.IExclusionStrategy, GoogleGson;com.google.gson.ExclusionStrategy
 GoogleGson.IExclusionStrategy;com.google.gson.ExclusionStrategy
 com.google.gson.ExclusionStrategy;com.google.gson.ExclusionStrategy

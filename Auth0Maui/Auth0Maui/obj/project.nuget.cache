@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c5OG+OQfqXdYfiHtlgQKB6vFIesmdBmQ0+c2usvl8Fw+AZNihMm6jxIrj0kF46WabcajekQoveCVHT0CRIYViw==",
+  "dgSpecHash": "W3UGvbtg2zkB1FuU372VIcvK2yU9+JiSVIEDFL9Zc0GViz0sJKXXzH4kRNm9bP7xo/Rl05FbiFHKrVtDe8TZwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.csproj",
+  "projectFilePath": "C:\\Users\\mihai\\Documents\\GitHub\\oo-grupp-7\\Auth0Maui\\Auth0Maui\\Auth0Maui.MAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihai\\.nuget\\packages\\alohakit\\1.0.74\\alohakit.1.0.74.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\mihai\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\mihai\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

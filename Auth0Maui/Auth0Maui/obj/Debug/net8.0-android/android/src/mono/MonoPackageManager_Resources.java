@@ -1,8 +1,8 @@
 package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
-		/* We need to ensure that "Auth0Maui.dll" comes first in this list. */
-		"Auth0Maui.dll",
+		/* We need to ensure that "Auth0Maui.MAUI.dll" comes first in this list. */
+		"Auth0Maui.MAUI.dll",
 		"AlohaKit.dll",
 		"CommunityToolkit.Mvvm.dll",
 		"GoogleGson.dll",
