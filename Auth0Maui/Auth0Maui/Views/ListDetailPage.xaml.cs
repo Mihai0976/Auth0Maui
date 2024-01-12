@@ -1,20 +1,20 @@
-﻿namespace Auth0Maui.Views;
+namespace Auth0Maui.Views;
 
 public partial class ListDetailPage : ContentPage
 {
-	ListDetailViewModel ViewModel;
+    ListDetailViewModel ViewModel;
 
-	public ListDetailPage(ListDetailViewModel viewModel)
-	{
-		InitializeComponent();
+    public ListDetailPage(ListDetailViewModel viewModel)
+    {
+        InitializeComponent();
 
-		BindingContext = ViewModel = viewModel;
-	}
+        BindingContext = ViewModel = viewModel;
+    }
 
-	protected override async void OnNavigatedTo(NavigatedToEventArgs args)
-	{
-		base.OnNavigatedTo(args);
+    protected override async void OnNavigatedTo(NavigatedToEventArgs args)
+    {
+        base.OnNavigatedTo(args);
 
-		await ViewModel.LoadDataAsync();
-	}
+        await ViewModel.LoadDataAsync();
+    }
 }

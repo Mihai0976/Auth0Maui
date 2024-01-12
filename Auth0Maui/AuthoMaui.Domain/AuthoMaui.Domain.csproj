@@ -7,16 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DomainEvents\" />
-    <Folder Include="Entities\Achivements\" />
-    <Folder Include="Entities\Bases\" />
-    <Folder Include="Entities\Country\" />
-    <Folder Include="Entities\Helpers\" />
-    <Folder Include="Entities\UserManagement\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Models\Commands\UserManagement\Auth\" />
-    <Folder Include="Models\DTOs\" />
-    <Folder Include="Models\Results\" />
     <Folder Include="ValueObjects\" />
   </ItemGroup>
 
