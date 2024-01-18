@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Auth0Maui.AuthO
+namespace Auth0Maui.Domain.Entities.Bases
 {
-    internal class AuthClientOptions
+    public abstract class AuditableEntity
     {
     }
 }

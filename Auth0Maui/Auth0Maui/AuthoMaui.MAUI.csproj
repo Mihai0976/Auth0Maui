@@ -61,7 +61,8 @@
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
 		<PackageReference Include="Microsoft.Maui.Controls.Maps" Version="8.0.3" />
-		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.3" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.2.0" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -78,5 +79,9 @@
 		<projectType>MVVMToolkit</projectType>
 		<framework>Tabs</framework>
 	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Auth0Maui.Domain\Auth0Maui.Domain.csproj" />
+	</ItemGroup>
+
 
 </Project>
