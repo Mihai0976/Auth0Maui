@@ -1,0 +1,22 @@
+﻿<Shell
+	x:Class="Auth0Maui.MAUI.AppShell"
+	xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:views="clr-namespace:Auth0Maui.MAUI.Views"
+	xmlns:local="clr-namespace:Auth0Maui.MAUI">
+
+    <TabBar>
+        <ShellContent
+			Title="Main"
+			Icon="iconblank.png"
+			ContentTemplate="{DataTemplate views:MainPage}" />
+        <ShellContent
+			Title="Account"
+			Icon="iconblank.png"
+			ContentTemplate="{DataTemplate views:AccountPage}" />
+        <ShellContent
+			Title="Location"
+			Icon="iconblank.png"
+			ContentTemplate="{DataTemplate views:LocationPage}" />
+    </TabBar>
+</Shell>

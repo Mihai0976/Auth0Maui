@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:vm="clr-namespace:Auth0Maui.MAUI.ViewModels"
+			 x:Class="Auth0Maui.MAUI.Views.MainPage"
+			 x:DataType="vm:MainViewModel">
+
+    <Grid>   <!-- Background Image -->
+    <Image Source="security_badge.jpg"
+           Aspect="AspectFill" 
+           IsOpaque="True"
+           HorizontalOptions="FillAndExpand"
+           VerticalOptions="FillAndExpand"/>
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <StackLayout
+                x:Name="LoginView"  >
+                <Button 
+                    x:Name="LoginBtn"
+                    Text="Log In"
+                    SemanticProperties.Hint="Click to log in"
+                     IsVisible="{Binding IsLoginButtonVisible}"
+                    Command="{Binding LoginCommand}"
+                    HorizontalOptions="Center" />
+
+                <WebView x:Name="WebViewInstance" />
+            </StackLayout>
+
+            <StackLayout
+               x:Name="HomeView" IsVisible="{Binding IsHomeViewVisible}">
+
+            
+
+                <Label
+                Text="Hello"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center" />
+
+          
+
+
+
+
+                <Label 
+                 x:Name="UsernameLbl"
+                Text="{Binding Username}"
+                SemanticProperties.HeadingLevel="Level2"
+                 SemanticProperties.Description="User's name"
+                 FontSize="18"
+                HorizontalOptions="Center" />
+                
+              
+
+                <Button 
+                x:Name="LogoutBtn"
+                Text="Log Out"
+                SemanticProperties.Hint="Click to log out"
+                Command="{Binding LogoutCommand}"
+                HorizontalOptions="Center" />
+
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+    </Grid>
+</ContentPage>
