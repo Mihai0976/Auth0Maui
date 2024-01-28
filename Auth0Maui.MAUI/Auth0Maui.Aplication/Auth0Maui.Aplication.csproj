@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Aplication\AuthoMaui.Aplication\AuthoMaui.Aplication.csproj" />
+    <ProjectReference Include="..\Core\Domain\Auth0Maui.Domain\Auth0Maui.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
