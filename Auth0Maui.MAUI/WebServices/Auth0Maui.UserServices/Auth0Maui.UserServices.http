@@ -1,11 +1,12 @@
 @Auth0Maui.UserServices_HostAddress = http://localhost:5226
 
-GET {{Auth0Maui.UserServices_HostAddress}}/todos/
+GET {{Auth0Maui.UserServices_HostAddress}}/api/authentification/
 Accept: application/json
+
 
 ###
 
-GET {{Auth0Maui.UserServices_HostAddress}}/todos/1
+GET {{Auth0Maui.UserServices_HostAddress}}/authentification/1
 Accept: application/json
 
 ###

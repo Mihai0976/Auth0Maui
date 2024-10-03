@@ -26,7 +26,12 @@ public class Program
             .AddJsonOptions(options =>
             {
                 options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
+                //options.JsonSerializerOptions.TypeInfoResolver = System.Text.Json.JsonSerializerOptions.DefaultTypeInfoResolver;
             });
+
+        // Swagger configuration
+        builder.Services.AddEndpointsApiExplorer();
+        builder.Services.AddSwaggerGen();
 
         // Logging
         builder.Logging.ClearProviders();
@@ -57,7 +62,9 @@ public class Program
         });
 
         // MediatR
-        builder.Services.AddMediatR(typeof(Program).Assembly);
+        // MediatR
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
+
 
         // Swagger
         builder.Services.AddSwaggerGen();
@@ -92,6 +99,9 @@ public class Program
 
     private static void ConfigurePipeline(WebApplication app)
     {
+        // Enable HTTPS Redirection
+        app.UseHttpsRedirection();
+
         if (app.Environment.IsDevelopment())
         {
             app.UseDeveloperExceptionPage();
@@ -99,17 +109,23 @@ public class Program
             app.UseSwaggerUI(options =>
             {
                 options.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                options.RoutePrefix = string.Empty; // Swagger at root URL
             });
         }
 
-        // Global error handling could be added here
-
+        // Enable CORS
         app.UseCors("MyCorsPolicy");
 
+        // Enable Authentication and Authorization
         app.UseAuthentication();
         app.UseAuthorization();
 
+        // Enable Routing
         app.UseRouting();
+
+        // Map Controllers
         app.MapControllers();
+        // Map the default route to index.html
+        app.MapFallbackToFile("index.html");
     }
 }

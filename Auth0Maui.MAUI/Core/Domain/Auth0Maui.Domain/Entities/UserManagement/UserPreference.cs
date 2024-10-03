@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Auth0maui.Domain.Entities.UserManagement;
+using System.ComponentModel.DataAnnotations;
 
 namespace ReFeelApp.Common.Domain.Entities.UserManagement;
 

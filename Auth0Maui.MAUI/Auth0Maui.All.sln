@@ -17,15 +17,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebServives", "WebServives"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserServices", "UserServices", "{49F26BCA-D3AC-4713-B277-740F33E49B3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0Maui.UserServices", "WebServices\Auth0Maui.UserServices\Auth0Maui.UserServices.csproj", "{650FE93E-7600-4705-A7B9-324BE169977C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0Maui.UserServices", "WebServices\Auth0Maui.UserServices\Auth0Maui.UserServices.csproj", "{650FE93E-7600-4705-A7B9-324BE169977C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0Maui.Aplication", "Auth0Maui.Aplication\Auth0Maui.Aplication.csproj", "{5DD6B862-484F-4487-A11B-E457DFF12E6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0Maui.Aplication", "Auth0Maui.Aplication\Auth0Maui.Aplication.csproj", "{5DD6B862-484F-4487-A11B-E457DFF12E6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0Maui.Domain", "Core\Domain\Auth0Maui.Domain\Auth0Maui.Domain.csproj", "{789B3FAD-B8EC-4A7C-9C35-746CAB2FEBA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0Maui.Domain", "Core\Domain\Auth0Maui.Domain\Auth0Maui.Domain.csproj", "{789B3FAD-B8EC-4A7C-9C35-746CAB2FEBA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0Maui.Infrastucture", "Core\Infrastucture\Auth0Maui.Infrastucture\Auth0Maui.Infrastucture.csproj", "{7F36C416-1A6D-4C70-921D-74072965A7F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth0Maui.Infrastucture", "Core\Infrastucture\Auth0Maui.Infrastucture\Auth0Maui.Infrastucture.csproj", "{7F36C416-1A6D-4C70-921D-74072965A7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthoMaui.Aplication", "Core\Aplication\AuthoMaui.Aplication\AuthoMaui.Aplication.csproj", "{7FA39FAA-2E9B-474B-AA98-151CF57D8FE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthoMaui.Aplication", "Core\Aplication\AuthoMaui.Aplication\AuthoMaui.Aplication.csproj", "{7FA39FAA-2E9B-474B-AA98-151CF57D8FE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
