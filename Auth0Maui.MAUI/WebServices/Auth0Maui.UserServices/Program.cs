@@ -1,7 +1,8 @@
+using Auth0Maui.UserServices.Data;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.DependencyInjection;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.Text.Json.Serialization;
@@ -19,15 +20,18 @@ public class Program
 
     private static void ConfigureServices(WebApplicationBuilder builder)
     {
-        var configuration = builder.Configuration;
+        var configuration = builder.Configuration; // Use builder.Configuration directly
 
         // API Controllers and JSON Serializer Options
         builder.Services.AddControllers()
             .AddJsonOptions(options =>
             {
                 options.JsonSerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
-                //options.JsonSerializerOptions.TypeInfoResolver = System.Text.Json.JsonSerializerOptions.DefaultTypeInfoResolver;
             });
+
+        // Database Context
+        builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
 
         // Swagger configuration
         builder.Services.AddEndpointsApiExplorer();
@@ -62,12 +66,7 @@ public class Program
         });
 
         // MediatR
-        // MediatR
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
-
-
-        // Swagger
-        builder.Services.AddSwaggerGen();
+        builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 
         // JWT Authentication
         ConfigureJwtAuthentication(builder, configuration);
@@ -109,7 +108,7 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Progr
             app.UseSwaggerUI(options =>
             {
                 options.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-                options.RoutePrefix = string.Empty; // Swagger at root URL
+                options.RoutePrefix = string.Empty;
             });
         }
 
@@ -125,6 +124,7 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Progr
 
         // Map Controllers
         app.MapControllers();
+
         // Map the default route to index.html
         app.MapFallbackToFile("index.html");
     }

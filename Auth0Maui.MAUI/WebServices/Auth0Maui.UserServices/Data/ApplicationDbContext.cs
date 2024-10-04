@@ -10,6 +10,12 @@ namespace Auth0Maui.UserServices.Data
         {
         }
 
-        public DbSet<AuthenticationItem> Users { get; set; }
+        public DbSet<AuthenticationItem> Authentication { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<AuthenticationItem>().ToTable("Authentication");
+        }
     }
 }
+
