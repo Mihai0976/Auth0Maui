@@ -1,7 +1,9 @@
 ﻿using Auth0Maui.Domain.Models.DTOs;
 using Auth0Maui.MAUI.Auth0;
 using Auth0Maui.MAUI.Models;
+using Auth0Maui.MAUI.Services;
 using System.Windows.Input;
+
 
 namespace Auth0Maui.MAUI.ViewModels;
 
@@ -13,7 +15,8 @@ public partial class MainViewModel : BaseViewModel
     private bool _isHomeViewVisible;
     private bool _isLoginViewVisible;
     private bool _isLoginButtonVisible = true;
-    
+    private readonly ApiService _apiService;
+
 
 
 
@@ -61,10 +64,11 @@ public partial class MainViewModel : BaseViewModel
     public ICommand LogoutCommand { get; }
 
 
-    public MainViewModel(Auth0Client auth0Client, HttpClient httpClient, AccountViewModel accountViewModel)
+    public MainViewModel(Auth0Client auth0Client, HttpClient httpClient, ApiService apiService,  AccountViewModel accountViewModel)
     {
         _auth0Client = auth0Client;
         _httpClient = httpClient;
+         _apiService = apiService; // Inject the API service here
         _accountViewModel = accountViewModel;
         LoginCommand = new Command(async () => await ExecuteLoginCommand());
         LogoutCommand = new Command(async () => await ExecuteLogoutCommand());
@@ -89,9 +93,16 @@ public partial class MainViewModel : BaseViewModel
     {
         var loginResult = await _auth0Client.LoginAsync();
 
-        if (!loginResult.IsError)
+        if (loginResult.IsError)
         {
-          
+            // Handle login error
+            MessagingCenter.Send(this, "DisplayAlert", new AlertMessage { Title = "Error", Message = loginResult.ErrorDescription, Cancel = "OK" });
+        }
+        else
+        {
+            // Store the access token for future requests
+            TokenHolder.AccessToken = loginResult.AccessToken;
+
             var userDto = new UserDto
             {
              
@@ -111,14 +122,11 @@ public partial class MainViewModel : BaseViewModel
 
             _accountViewModel.InitializeWithUserData(userDto);
 
-            // Store access token
-            TokenHolder.AccessToken = loginResult.AccessToken;
+            var usersData = await _apiService.GetUsers(TokenHolder.AccessToken);
+
+
         }
-        else
-        {
-            // Use a messaging center or a service to show the alert
-            MessagingCenter.Send(this, "DisplayAlert", new AlertMessage { Title = "Error", Message = loginResult.ErrorDescription, Cancel = "OK" });
-        }
+        
     }
 
 }

@@ -1,14 +1,15 @@
 ﻿using Auth0Maui.MAUI.Auth0;
 using Auth0Maui.MAUI.Models;
+using Auth0Maui.MAUI.Services;
 
 namespace Auth0Maui.MAUI.Views;
 
 public partial class MainPage : ContentPage
 {
-    public MainPage(Auth0Client client, HttpClient httpClient, AccountViewModel accountViewModel)
+    public MainPage(Auth0Client client, HttpClient httpClient, AccountViewModel accountViewModel, ApiService apiService)
     {
         InitializeComponent();
-        var viewModel = new MainViewModel(client, httpClient, accountViewModel );
+        var viewModel = new MainViewModel(client, httpClient, apiService, accountViewModel );
         BindingContext = viewModel;
 
         MessagingCenter.Subscribe<MainViewModel, AlertMessage>(this, "DisplayAlert", async (sender, arg) =>

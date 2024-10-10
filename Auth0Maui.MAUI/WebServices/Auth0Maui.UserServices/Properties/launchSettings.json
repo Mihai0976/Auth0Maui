@@ -4,11 +4,12 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "index.html",
+      "applicationUrl": "http://localhost:5226",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:5226"
+      "browser": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" // Set Chrome as the default browser for this profile
     },
     "Docker": {
       "commandName": "Docker",

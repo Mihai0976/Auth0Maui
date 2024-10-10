@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Auth0Maui.UserServices.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241004033319_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20241004041806_CreateAuthenticationTable")]
+    partial class CreateAuthenticationTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

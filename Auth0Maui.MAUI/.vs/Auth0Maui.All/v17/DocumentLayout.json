@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004033319_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebServices\\Auth0Maui.UserServices\\Migrations\\20241004033319_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\models\\authenticationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\models\\authenticationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +35,32 @@
       "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\auth0maui.userservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\auth0maui.userservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\auth0maui.userservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\auth0maui.userservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\auth0maui.userservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\auth0maui.userservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\models\\authenticationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\models\\authenticationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\models\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\models\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{789B3FAD-B8EC-4A7C-9C35-746CAB2FEBA0}|Core\\Domain\\Auth0Maui.Domain\\Auth0Maui.Domain.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\core\\domain\\auth0maui.domain\\models\\dtos\\tokenexchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,6 +100,14 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\migrations\\20241004040759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\migrations\\20241004040759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|c:\\users\\mihai\\documents\\github\\auth0maui\\auth0maui.maui\\webservices\\auth0maui.userservices\\migrations\\20241004041806_createauthenticationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650FE93E-7600-4705-A7B9-324BE169977C}|WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj|solutionrelative:webservices\\auth0maui.userservices\\migrations\\20241004041806_createauthenticationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,7 +117,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,33 +141,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241004033319_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004033319_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Migrations\\20241004033319_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004033319_InitialCreate.cs",
-              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Migrations\\20241004033319_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T03:33:19.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Controllers\\AuthenticationController.cs",
               "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwHsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:14:02.378Z",
+              "WhenOpened": "2024-10-02T04:14:02.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\appsettings.json",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\appsettings.json",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T06:04:14.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Program.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Program.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Program.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Program.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwIoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:03:39.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:49:04.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\appsettings.Development.json",
@@ -151,21 +198,31 @@
               "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T20:20:58.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:20:58.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Program.cs",
-              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Program.cs",
-              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Program.cs",
-              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Program.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAQwIMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T03:10:06.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Services\\ApiService.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:03:39.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T04:04:33.314Z"
             },
             {
               "$type": "Document",
@@ -177,64 +234,11 @@
               "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:10:00.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T04:10:00.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-03T03:10:06.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\appsettings.json",
-              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\appsettings.json",
-              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\appsettings.json",
-              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T06:04:14.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthenticationItem.cs",
-              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
-              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
-              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
-              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:05:48.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Data\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T04:49:04.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Auth0Maui.UserServices.http",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.http",
               "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.http",
@@ -242,8 +246,7 @@
               "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-05T19:59:28.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T19:59:28.876Z"
             },
             {
               "$type": "Document",
@@ -253,14 +256,96 @@
               "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
               "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
               "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-05T20:21:04.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:21:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService .cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Services\\UserService .cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Services\\UserService .cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Services\\UserService .cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Services\\UserService .cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:27:25.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationItem.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Models\\AuthenticationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:05:48.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auth0Maui.UserServices",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Auth0Maui.UserServices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T19:23:59.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Models\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\IUserService.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Models\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:28:20.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:21:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241004040759_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004040759_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Migrations\\20241004040759_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004040759_InitialCreate.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Migrations\\20241004040759_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:07:59.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241004041806_CreateAuthenticationTable.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004041806_CreateAuthenticationTable.cs",
+              "RelativeDocumentMoniker": "WebServices\\Auth0Maui.UserServices\\Migrations\\20241004041806_CreateAuthenticationTable.cs",
+              "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\WebServices\\Auth0Maui.UserServices\\Migrations\\20241004041806_CreateAuthenticationTable.cs",
+              "RelativeToolTip": "WebServices\\Auth0Maui.UserServices\\Migrations\\20241004041806_CreateAuthenticationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:18:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Entities\\Bases\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Entities\\Bases\\AuditableEntity.cs",
@@ -268,12 +353,11 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Entities\\Bases\\AuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:51:22.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T03:51:22.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "IAuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Entities\\Bases\\IAuditableEntity.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Entities\\Bases\\IAuditableEntity.cs",
@@ -281,12 +365,11 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Entities\\Bases\\IAuditableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:51:30.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T03:51:30.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "TokenExchangeDto.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Models\\DTOs\\TokenExchangeDto.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Models\\DTOs\\TokenExchangeDto.cs",
@@ -294,12 +377,11 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Models\\DTOs\\TokenExchangeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:51:51.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T03:51:51.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "UserAchievement.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\UserAchievement.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\UserAchievement.cs",
@@ -307,38 +389,35 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\UserAchievement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIAwwAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:44:56.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T04:44:56.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Auth0Maui.Aplication",
+              "DocumentIndex": 22,
+              "Title": "Auth0Maui.Aplication.csproj",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Auth0Maui.Aplication\\Auth0Maui.Aplication.csproj",
               "RelativeDocumentMoniker": "Auth0Maui.Aplication\\Auth0Maui.Aplication.csproj",
               "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Auth0Maui.Aplication\\Auth0Maui.Aplication.csproj",
               "RelativeToolTip": "Auth0Maui.Aplication\\Auth0Maui.Aplication.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T05:02:48.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:02:48.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthoMaui.Aplication",
+              "DocumentIndex": 21,
+              "Title": "AuthoMaui.Aplication.csproj",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Aplication\\AuthoMaui.Aplication\\AuthoMaui.Aplication.csproj",
               "RelativeDocumentMoniker": "Core\\Aplication\\AuthoMaui.Aplication\\AuthoMaui.Aplication.csproj",
               "ToolTip": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Aplication\\AuthoMaui.Aplication\\AuthoMaui.Aplication.csproj",
               "RelativeToolTip": "Core\\Aplication\\AuthoMaui.Aplication\\AuthoMaui.Aplication.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T05:02:53.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:02:53.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "UserPreference.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\UserPreference.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\UserPreference.cs",
@@ -346,12 +425,11 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\UserPreference.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAApwAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T05:17:22.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:17:22.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\User.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\User.cs",
@@ -359,12 +437,11 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Entities\\UserManagement\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T05:18:16.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T05:18:16.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -372,12 +449,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAPgAAAAAAAAAAAAjwAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-09-05T20:24:37.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:24:37.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "JwtDto.cs",
               "DocumentMoniker": "C:\\Users\\mihai\\Documents\\GitHub\\Auth0Maui\\Auth0Maui.MAUI\\Core\\Domain\\Auth0Maui.Domain\\Models\\DTOs\\JwtDto.cs",
               "RelativeDocumentMoniker": "Core\\Domain\\Auth0Maui.Domain\\Models\\DTOs\\JwtDto.cs",
@@ -385,8 +461,7 @@
               "RelativeToolTip": "Core\\Domain\\Auth0Maui.Domain\\Models\\DTOs\\JwtDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:18:32.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T04:18:32.826Z"
             }
           ]
         }
